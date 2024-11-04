@@ -1,0 +1,4 @@
+- NestJS userscrud
+- Prisma ORM 
+- Neon Database (postgres)
+- Logger
