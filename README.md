@@ -1,4 +1,4 @@
-- NestJS userscrud
+- NestJS users crud
 - Prisma ORM 
 - Neon Database (postgres)
 - Logger
